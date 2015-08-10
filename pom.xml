@@ -73,9 +73,9 @@
     </distributionManagement>
 
     <scm>
-        <url>https://github.com/BrandwatchLtd/robots</url>
-        <connection>scm:git:git@github.com:BrandwatchLtd/robots.git</connection>
-        <developerConnection>scm:git:git@github.com:BrandwatchLtd/robots.git</developerConnection>
+        <url>https://github.com/BrandwatchLtd/async-mixpanel-client</url>
+        <connection>scm:git:git@github.com:BrandwatchLtd/async-mixpanel-client.git</connection>
+        <developerConnection>scm:git:git@github.com:BrandwatchLtd/async-mixpanel-client.git</developerConnection>
         <tag>master</tag>
     </scm>
     
