@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.brandwatch.mixpanel</groupId>
     <artifactId>mixpanel-client</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -12,6 +12,13 @@
     </properties>
     <name>Mixpanel Client</name>
     <description>A friendly wrapper around the main Mixpanel Java client with added async support for high throughput applications</description>
+
+    <parent>
+        <groupId>org.sonatype.oss</groupId>
+        <artifactId>oss-parent</artifactId>
+        <version>7</version>
+    </parent>
+
     <dependencies>
         
         <dependency>
