@@ -1,7 +1,7 @@
 # async-mixpanel-client
 [![Build Status](https://travis-ci.org/BrandwatchLtd/async-mixpanel-client.svg)](https://travis-ci.org/BrandwatchLtd/async-mixpanel-client) 
 [![Coverage Status](https://coveralls.io/repos/BrandwatchLtd/async-mixpanel-client/badge.svg?branch=master&service=github)](https://coveralls.io/github/BrandwatchLtd/async-mixpanel-client?branch=master) 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.brandwatch.mixpanel/async-mixpanel-client/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.brandwatch.mixpanel/mixpanel-client)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.brandwatch.mixpanel/mixpanel-client/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.brandwatch.mixpanel/mixpanel-client)
 
 ## What Is This? 
 This repo hosts a wrapper around the official Mixpanel Java client.
